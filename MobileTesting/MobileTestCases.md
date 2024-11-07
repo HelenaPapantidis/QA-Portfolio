@@ -19,7 +19,6 @@ ________________________________________________________________________________
 **Test Case 2 :** Editing Profile with Minimum Characters in Instagram Edit Profile Form  
 **Priority:** high  
 **Preconditions:** 
-
 * The user must have an active Instagram account and be logged into the app.  
 * The app is updated to the latest version and is open to the user’s profile page.
 
