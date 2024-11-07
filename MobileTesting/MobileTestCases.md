@@ -5,7 +5,7 @@
 **Preconditions:** 
 * The user must have an active Instagram account and be logged into the app.  
 * Ensure the Instagram app is up to date on a compatible device.  
-* The  user's device’s media library contains a video file in MP4 format, with a duration of exactly 60 seconds.
+* The  user's device’s media library contains a video file in MP4 format with a duration of exactly 60 seconds.
 
 | Steps | Test Steps | Test Data | Expected Results |
 | :---: | ----- | ----- | ----- |
