@@ -15,6 +15,7 @@
 | 4\. | Tap “Next” button |  | A new page opens with tagging and location settings for the reel. |
 | 5\. | Tap the “Share” button |  | The reel is successfully uploaded and appears in the user’s feed. |
 
+
 __________________________________________________________________________________________________________________________________________________________
 **Test Case 2 :** Editing Profile with Minimum Characters in Instagram Edit Profile Form  
 **Priority:** high  
@@ -34,6 +35,8 @@ ________________________________________________________________________________
 
 
 
+
+
  Telegram  mobile aplication 
 ________________________________________________________________________________________________________________________________________________________________________________________
 **Test Case 3 :**  Verify Sending a Message with an Emoji in Telegram Mobile App  
@@ -48,7 +51,7 @@ ________________________________________________________________________________
 | 2\. | Tap on the message input field at the bottom of the screen. |  | The keyboard appears, and the message input field becomes active. |
 | 3\. | Type a message into the input field. | Emojis (e.g., 😊🎉🔥) | The emojis are displayed correctly in the message input field. |
 | 4\. | Tap the button arrow icon to send a message. |  | The message status updates to "Sent" immediately after sending, and to "Delivered" once the recipient receives the message. |
-|  |  |  |  |
+
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 **Test Case 4 :** Verify error message when attempting to send a valid format file Mp4 exceeding the 2GB limit (2.01GB)  
@@ -64,7 +67,7 @@ ________________________________________________________________________________
 | 2\. | Tap on the attachment icon in the chat window. |  | The device directory opens to choose a file to upload. |
 | 3\. | Select a file from device directory | File format Mp4  of 2.01GB | The file is selected and displayed in the attachment preview area. |
 | 4\. | Press the "send" button |  | An error message is displayed, stating that the file size exceeds the 2GB limit. |
-|  |  |  |  |
+
 
 
 
