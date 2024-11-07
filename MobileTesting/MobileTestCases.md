@@ -33,6 +33,8 @@ ________________________________________________________________________________
 | 6\. | Tap on the green checkmark to accept changes. |  | User is returned to the user edit profile form, change is accepted  and in the field “Name” is displayed the entered value. |
 | 7\. | Tap on the back arrow on the left top corner of the page Edit Profile page. |  | New user name is shown on the profile page. |
 
+
+
  Telegram  mobile aplication 
 ________________________________________________________________________________________________________________________________________________________________________________________
 **Test Case 3 :**  Verify Sending a Message with an Emoji in Telegram Mobile App  
