@@ -19,7 +19,7 @@
 | 10\. | Click the "Create" button | / | Successful message " New Benefit Group 'name' successfully added" is displayed and company benefit is displayed on the list. |
 
 **Test Case 02**    
-**Title: *Verify the behavior of  Filter Functionality for Budget for option 75% \- 100%***  
+**Title: Verify the behavior of  Filter Functionality for Budget for option 75% \- 100%***  
 **Priority:** **low**  
 **Preconditions:** 
 
