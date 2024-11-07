@@ -37,9 +37,9 @@ ________________________________________________________________________________
 **Steps to Reproduce:**
 
 1. Click the "Company Benefits"   
-2. Click on “Benefits”  
-3. Click on “Settings”  
-4. Click on “Dashboard”  
+2. Click on "Benefits"  
+3. Click on "Settings"  
+4. Click on "Dashboard"  
    
 
 **Expected Results:** The layout should adapt to the portrait orientation of mobile devices, ensuring that all UI elements, such as buttons and images, are fully visible and aligned.
@@ -100,8 +100,8 @@ ________________________________________________________________________________
 
 **Steps to Reproduce:**
 
-1. Click on “Kompanijski Benefiti” in left section of page  
-2. Click on button ” \+ “ on Dodajte kompanijsku benefit grupu  
+1. Click on "Kompanijski Benefiti" in left section of page  
+2. Click on button " \+ " on Dodajte kompanijsku benefit grupu  
 3. Enter Ime: "EduFit"  
 4. Select Kategorija: "Sports"  
 5. Enter Rezime: "Corporate fitness package."  
@@ -110,7 +110,7 @@ ________________________________________________________________________________
 8. Click “Create” button  
    
 
-**Expected Results:** An appropriate error message “Wrong image format Error: Please upload the image with landscape orientation (minimum dimensions 500\*500px)” should appear, indicating that the uploaded image format is invalid.
+**Expected Results:** An appropriate error message "Wrong image format Error: Please upload the image with landscape orientation (minimum dimensions 500\*500px)" should appear, indicating that the uploaded image format is invalid.
 
 **Actual Result:** After submitting the form, the error message starts with "ValidationError", followed by an explanation that the uploaded image is in the wrong format. 
 
@@ -132,8 +132,8 @@ ________________________________________________________________________________
 **Precondition:** User is logged in to the app as Hr  
 **Steps to Reproduce:**
 
-1. Click on “Employees” on left sidebar of Dashboard page  
-2. Click on downarrow of “Filter by used budget percentage” menu  
+1. Click on "Employees" on left sidebar of Dashboard page  
+2. Click on downarrow of "Filter by used budget percentage" menu  
 3. Click on 75%-100% option 
 
 **Expected Results:** After applying Filter by using budget percentage data should be shown correctly in the selected range of percentage in column Spent%.
@@ -143,7 +143,7 @@ ________________________________________________________________________________
 * Values greater than 100%: \[List the specific values, e.g., 121%\]  
 * Values less than 75%: \[List the specific values, e.g., 23%\]
 
- **Environment:**Desktop, OS Windows 11 Pro, Browser: Chrome version 129
+ **Environment:** Desktop, OS Windows 11 Pro, Browser: Chrome version 129
 
 **Severity:** Low  
 **Priority:** Medium
