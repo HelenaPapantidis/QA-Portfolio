@@ -1,3 +1,7 @@
+**Note**
+Non-Disclosure Agreements (NDAs) which prohibit from disclosing, sharing, or in any way posting our client bug reports this document is presenting bug reports made for  AcademyBugs app.
+
+----------------------------------------------------------------------------------------------------------------------------------
 ID \- 1
 
 **Title**: Product image not fully displayed on product detail view in desktop
