@@ -1,5 +1,5 @@
 **Note**
-Non-Disclosure Agreements (NDAs) which prohibit from disclosing, sharing, or in any way posting our client bug reports this document is presenting bug reports made for  AcademyBugs app.
+ This document is presenting bug reports made for AcademyBugs app.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ID \- 1
